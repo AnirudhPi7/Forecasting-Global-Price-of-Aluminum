@@ -13,9 +13,7 @@ Aluminum is deeply tied to macro cycles and energy input costs: smelting is elec
 ---
 
 ## Problem Statement
-We aim to:
-(i) forecast one-step-ahead aluminum prices;
-(ii) test whether explicit shock dummies improve fit and stability.
+The objective is to build a robust monthly forecaster for global aluminum prices that stays accurate and interpretable across regime shifts. We compare a parsimonious ARIMA baseline with an ARIMAX that adds short event dummies (COVID phases, Russia–Ukraine war) to capture structural shocks. Success means lower AIC/BIC, equal or better MAE/RMSE/MAPE, white-noise residuals, and economically sensible coefficients that stakeholders can trust for hedging, budgeting, and procurement.
 
 ---
 
