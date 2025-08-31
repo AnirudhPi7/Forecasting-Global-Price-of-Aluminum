@@ -46,3 +46,11 @@ Economically, the results align with industry intuition: the pandemic’s initia
 A parsimonious ARIMAX(1,1,1) with a single war dummy delivers strong, interpretable aluminum price forecasts on recent history. Future improvements include stress-testing alternative shock windows, adding energy price or USD index covariates, exploring structural breaks and regime-switching models, and benchmarking against state-space trend-seasonality baselines. These extensions can further enhance resilience to evolving macro conditions while preserving clarity for decision-makers.
 
 ---
+
+## Contributors
+- Anirudh A
+- Kowshik M
+- Moneesh B
+- Anushka
+
+---
